@@ -22,8 +22,6 @@ Este proyecto tiene como objetivo analizar datos bancarios para entender los fac
 ✔ Algunas variables tienen correlaciones significativas con la conversión.
 ---
 
-## **
-
 ## 🛠️ Instalación y Requisitos
 Para ejecutar este proyecto, necesitas tener **Python 3.x** y las siguientes bibliotecas:
 
